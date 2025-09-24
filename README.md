@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-🔭 Actualmente estoy trabajando en Java, C#, JavaWeb, SQLServer, MySql
+🔭 Actualmente estoy trabajando en Python, SQLServer, MySql
 
 🌱 Actualmente estoy aprendiendo Programacion Web
 
